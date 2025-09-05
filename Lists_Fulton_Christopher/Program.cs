@@ -12,7 +12,7 @@ namespace Lists_Fulton_Christopher
             List<string> games = new List<string>
             {
                 "Limbus Company",
-                "Borderlands 3",
+                "Slime Rancher",
                 "Cult of the Lamb",
                 "Stardew Valley",
                 "HellDivers 2",
